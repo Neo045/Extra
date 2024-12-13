@@ -1,1 +1,107 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://en.somoynews.tv/" group-title="", SOMOY TV HD
+http://bostv.one:8080/live/arvindkumar/arvindkumar/132036.ts
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Sangsad_Bangladesh_Television" group-title="", SANGSAD BANGLADESH
+http://bostv.one:8080/live/arvindkumar/arvindkumar/132035.ts
+#EXTINF:-1 tvg-logo="https://www.satv.tv/" group-title="", SA TV HD
+http://bostv.one:8080/live/arvindkumar/arvindkumar/132033.ts
+#EXTINF:-1 tvg-logo="https://www.facebook.com/photo/?fbid=295368223151026&set=a.295368196484362" group-title="", NTV
+http://bostv.one:8080/live/arvindkumar/arvindkumar/132029.ts
+#EXTINF:-1 tvg-logo="https://scontent.fcla7-1.fna.fbcdn.net/v/t39.30808-6/377509327_333035619109537_8108700322935615739_n.jpg?_nc_cat=1&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=Aw0ou7L6I60Q7kNvgEkUYNi&_nc_zt=23&_nc_ht=scontent.fcla7-1.fna&_nc_gid=ARogT4ic1NNSg51MaTJURpo&oh=00_AYAhCgp4CSr1KvwW6JPrwpkc3nV4zsfA7bTYEDexVNzT0w&oe=675A111A" group-title="", MOHONA TV
+http://bostv.one:8080/live/arvindkumar/arvindkumar/132024.ts
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Maasranga_Television_Logo.jpg" group-title="", MASSRANGA TV HD
+http://bostv.one:8080/live/arvindkumar/arvindkumar/132023.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/6/69/%E0%A6%AF%E0%A6%AE%E0%A7%81%E0%A6%A8%E0%A6%BE_%E0%A6%9F%E0%A7%87%E0%A6%B2%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B6%E0%A6%A8%E0%A7%87%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg" group-title="", JAMUNA TV
+http://bostv.one:8080/live/arvindkumar/arvindkumar/132021.ts
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Independent_Television_Logo.svg" group-title="", INDEPENDENT TV
+http://bostv.one:8080/live/arvindkumar/arvindkumar/132020.ts
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Ekushey_Television_Logo.svg" group-title="", EKUSHEY TV
+http://bostv.one:8080/live/arvindkumar/arvindkumar/132017.ts
+#EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/gmWipAJmtIoQX0sbEocEe9bwp3FMsLBqVvnpr1pJ0I_El_euPBwDl7eM2T-NHEVFgXI=w240-h480-rw" group-title="", NEWS 24
+http://bostv.one:8080/live/arvindkumar/arvindkumar/132010.ts
+#EXTINF:-1 tvg-logo="https://dbcnews.tv/" group-title="", DBC NEWS TV
+http://bostv.one:8080/live/arvindkumar/arvindkumar/132013.ts
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Channel-i.svg" group-title="", CHANNEL I
+http://bostv.one:8080/live/arvindkumar/arvindkumar/132009.ts
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Channel9_bd.svg" group-title="", CHANNEL 9 HD
+http://bostv.one:8080/live/arvindkumar/arvindkumar/132008.ts
+#EXTINF:-1 tvg-logo="" group-title="", BTV CHITTAGONG
+http://bostv.one:8080/live/arvindkumar/arvindkumar/132007.ts
+#EXTINF:-1 tvg-logo="" group-title="", BTV
+http://bostv.one:8080/live/arvindkumar/arvindkumar/132006.ts
+#EXTINF:-1 tvg-logo="" group-title="", BTV WORLD
+http://bostv.one:8080/live/arvindkumar/arvindkumar/132006.ts
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Boishakhi_TV_logo.svg" group-title="", BOISHAKHI TV
+http://bostv.one:8080/live/arvindkumar/arvindkumar/132004.ts
+#EXTINF:-1 tvg-logo="https://bn.wikipedia.org/wiki/%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0:%E0%A6%AC%E0%A6%BF%E0%A6%9C%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png" group-title="", BIJOY TV
+http://bostv.one:8080/live/arvindkumar/arvindkumar/132003.ts
+#EXTINF:-1 tvg-logo="https://banglatv.tv/wp-content/uploads/2020/09/banglatvlogo.png" group-title="", BANGLA TV
+http://bostv.one:8080/live/arvindkumar/arvindkumar/132002.ts
+#EXTINF:-1 tvg-logo="" group-title="", ATN NEWS
+http://bostv.one:8080/live/arvindkumar/arvindkumar/131999.ts
+#EXTINF:-1 tvg-logo="" group-title="", ATN BANGLA
+http://bostv.one:8080/live/arvindkumar/arvindkumar/131998.ts
+#EXTINF:-1 tvg-logo="" group-title="", ASIAN TV
+http://bostv.one:8080/live/arvindkumar/arvindkumar/131997.ts
+#EXTINF:-1 tvg-logo="" group-title="", DESH TV
+http://bostv.one:8080/live/arvindkumar/arvindkumar/131996.ts
+#EXTINF:-1 tvg-logo="" group-title="", BTV NATIONAL
+http://bostv.one:8080/live/arvindkumar/arvindkumar/131992.ts
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:GTVBangladeshLogo.png" group-title="", GAZI TV
+http://opplex.tv:8080/live/315587154/331264554/245901.ts
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Rtv_bangladesh.svg" group-title="", RTV
+http://opplex.tv:8080/live/315587154/331264554/245911.ts
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Mytv_Bangladesh_Logo.png" group-title="", MY TV HD
+http://opplex.tv:8080/live/315587154/331264554/245964.ts
+#EXTINF:-1 tvg-logo="https://ibb.co.com/Dwqpymf" group-title="", BBO Classic
+http://bostv.one:8080/live/arvindkumar/arvindkumar/74797.ts
+#EXTINF:-1 tvg-logo="" group-title="", BBO Classic Yupp Flix
+http://bostv.one:8080/live/arvindkumar/arvindkumar/85205.ts
+#EXTINF:-1 tvg-logo="https://logowik.com/pictures-hd-logo-vector-png-svg-free-download-21592.html" group-title="", & Pictures HD
+http://bostv.one:8080/live/arvindkumar/arvindkumar/85207.ts
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/File:Star_Gold_2020.svg" group-title="", Star Gold HD
+http://bostv.one:8080/live/arvindkumar/arvindkumar/85208.ts
+#EXTINF:-1 tvg-logo="https://ibb.co.com/Dwqpymf" group-title="", Star Gold 2 HD
+http://bostv.one:8080/live/arvindkumar/arvindkumar/85210.ts
+#EXTINF:-1 tvg-logo="https://www.pngwing.com/en/free-png-thony" group-title="", Zee Cinema HD
+http://bostv.one:8080/live/arvindkumar/arvindkumar/85212.ts
+#EXTINF:-1 tvg-logo="https://www.youtube.com/channel/UCO68w6XY4jstxssr8G68voQ" group-title="", Zee Bollywood
+http://bostv.one:8080/live/arvindkumar/arvindkumar/85213.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Zee_Classic" group-title="", Zee Classic
+http://bostv.one:8080/live/arvindkumar/arvindkumar/85214.ts
+#EXTINF:-1 tvg-logo="https://www.youtube.com/channel/UCLJIMy2wrWsLuPKJxU-a_YQ" group-title="", Zee Action
+http://bostv.one:8080/live/arvindkumar/arvindkumar/85215.ts
+#EXTINF:-1 tvg-logo="https://www.deviantart.com/mattjacks2003/art/Sony-Max-HD-Logo-2022-present-934328563" group-title="", Sony Max HD
+http://bostv.one:8080/live/arvindkumar/arvindkumar/85216.ts
+#EXTINF:-1 tvg-logo="https://hi.wikipedia.org/wiki/%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0:Sony_Max_2_new_logo.png" group-title="", Sony Max 2
+http://bostv.one:8080/live/arvindkumar/arvindkumar/85217.ts
+#EXTINF:-1 tvg-logo="https://www.jiotv.com/live-channel/colors-cineplex-hd/1477" group-title="", Color Cineplex HD
+http://bostv.one:8080/live/arvindkumar/arvindkumar/85219.ts
+#EXTINF:-1 tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.airtel.in%2Fdigital-tv%2Fairtel-specials&psig=AOvVaw1_JPza4kWKyg8HnkBZcOnh&ust=1733634228743000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiUnaL08JSKAxWTSWwGHYmyFPgQjRx6BAgAEBk" group-title="", Miniplex HD
+http://bostv.one:8080/live/arvindkumar/arvindkumar/89913.ts
+#EXTINF:-1 tvg-logo="" group-title="", Hiif Movies
+http://bostv.one:8080/live/arvindkumar/arvindkumar/89914.ts
+#EXTINF:-1 tvg-logo="https://commons.wikimedia.org/wiki/File:%26xplor_HD_logo.png" group-title="", &xplor HD
+http://bostv.one:8080/live/arvindkumar/arvindkumar/89915.ts
+#EXTINF:-1 tvg-logo="" group-title="", Xumo Bollywood & Indian Cinema
+http://bostv.one:8080/live/arvindkumar/arvindkumar/89938.ts
+#EXTINF:-1 tvg-logo="" group-title="", Bollywood Premier
+http://bostv.one:8080/live/arvindkumar/arvindkumar/89947.ts
+#EXTINF:-1 tvg-logo="https://ibb.co.com/Dwqpymf" group-title="", Bollywood Classic
+http://bostv.one:8080/live/arvindkumar/arvindkumar/89948.ts
+#EXTINF:-1 tvg-logo="https://www.pasjatv.pl/zmiana-logo-bollywood-hd" group-title="", Bollywood HD
+http://bostv.one:8080/live/arvindkumar/arvindkumar/89949.ts
+#EXTINF:-1 tvg-logo="" group-title="", B4U Movies
+http://bostv.one:8080/live/arvindkumar/arvindkumar/95286.ts
+#EXTINF:-1 tvg-logo="" group-title="", Enteer 10
+http://bostv.one:8080/live/arvindkumar/arvindkumar/95287.ts
+#EXTINF:-1 tvg-logo="" group-title="", Goldmines
+http://bostv.one:8080/live/arvindkumar/arvindkumar/95900.ts
+#EXTINF:-1 tvg-logo="https://ibb.co.com/Dwqpymf" group-title="", Goldmines Bollywood
+http://bostv.one:8080/live/arvindkumar/arvindkumar/95901.ts
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/wiki/Star_Gold_Romance" group-title="", Star Gold Romance
+http://bostv.one:8080/live/arvindkumar/arvindkumar/95902.ts
+#EXTINF:-1 tvg-logo="" group-title="", Star Gold Thrills
+http://bostv.one:8080/live/arvindkumar/arvindkumar/95903.ts
+#EXTINF:-1 tvg-logo="https://en.wikipedia.org/wiki/Colors_Cineplex_Superhits" group-title="", Colors Cineplex Superhits
+http://bostv.one:8080/live/arvindkumar/arvindkumar/97509.ts
