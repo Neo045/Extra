@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Neo" tvg-name="Last updated on February 16, 2025" tvg-logo="https://i.postimg.cc/8Cz9b3pk/Picsart-24-09-16-13-18-44-287.png" group-title="Last updated on February 16, 2025",Last updated on February 16, 2025
+https://github.com/Neo045/Pictures/raw/main/Doctor%20Strange.mp4
 #EXTINF:-1 tvg-id="sony-hd" tvg-name="Sony HD (SET HD)" tvg-country="IN" tvg-logo="https://i.postimg.cc/xCV0N1yy/SONY-SET-HD.png" tvg-chno="sony-hd" group-title="SonyLIV",Sony HD (SET HD)
 https://keralamaxtv.com/sliv/stream.php?id=1100&e=.m3u8|Referer=https://keralamaxtv.com/sliv/&key=thenayeemparvez
 #EXTINF:-1 tvg-id="sony-sab-hd" tvg-name="Sony SAB HD" tvg-country="IN" tvg-logo="https://i.postimg.cc/HLrGvfHN/SONY-SAB-HD.png" tvg-chno="sony-sab-hd" group-title="SonyLIV",Sony SAB HD
