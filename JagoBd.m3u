@@ -125,6 +125,8 @@ https://dooflix.live/cdn/hls/776ef2a787050207495ccecd044ee210/master.m3u8
 https://dooflix.live/cdn/hls/e4445b53d928c61be74f91db5f5dab3d/master.m3u8
 #EXTINF:-1 tvg-id="CID" tvg-name="CID S02E38" tvg-logo="https://i.postimg.cc/vmbQ0gk3/CID.jpg" group-title="CID Season 02",CID S02E38
 https://dooflix.live/cdn/hls/38ea461c306da9905fdf24f17104fb3f/master.m3u8
+#EXTINF:-1 tvg-id="CID" tvg-name="CID S02E39" tvg-logo="https://i.postimg.cc/vmbQ0gk3/CID.jpg" group-title="CID Season 02",CID S02E39
+https://dooflix.live/cdn/hls/2161cfd99cd3308cd3cb01952f9ac9a6/master.m3u8?s=1
 #EXTINF:-1 tvg-id="News 24/7" tvg-name="Jago News 24" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="News 24/7",Jago News 24
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="News 24/7" tvg-name="Independent TV" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="News 24/7",Independent TV
