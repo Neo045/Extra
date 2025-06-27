@@ -3,6 +3,18 @@
 https://github.com/Neo045/Pictures/raw/refs/heads/main/Free%20Palestine%20(1080%20X%201440).mp4
 #EXTINF:-1 tvg-id="Neo" tvg-name="Welcome" tvg-logo="https://i.ibb.co/9HZPXP3/profile-pic.png" group-title="Welcome (Check This Folder)",Welcome
 https://video.twimg.com/ext_tw_video/1755635743983009792/pr/vid/avc1/1280x720/oTw4c_9Pg5LVnAo6.mp4?tag=12
+#EXTINF:-1 tvg-id="SquidGameS3" tvg-name="S01E06" tvg-logo="https://i.postimg.cc/2Sp3Gt3M/images.jpg" group-title="Squid Game Season 03 Dual Audio",S01E01
+https://dooflix.live/cdn/hls/0cdd21eba38f2ad4d750f37af81653c7/master.m3u8?s=1
+#EXTINF:-1 tvg-id="SquidGameS3" tvg-name="S01E02" tvg-logo="https://i.postimg.cc/2Sp3Gt3M/images.jpg" group-title="Squid Game Season 03 Dual Audio",S01E02
+https://dooflix.live/cdn/hls/5b4198fe9488dbe2253a1199873db092/master.m3u8?s=1
+#EXTINF:-1 tvg-id="SquidGameS3" tvg-name="S01E03" tvg-logo="https://i.postimg.cc/2Sp3Gt3M/images.jpg" group-title="Squid Game Season 03 Dual Audio",S01E03
+https://dooflix.live/cdn/hls/0fd36b1d7abab6ce3092e1a7c5af7627/master.m3u8?s=1
+#EXTINF:-1 tvg-id="SquidGameS3" tvg-name="S01E04" tvg-logo="https://i.postimg.cc/2Sp3Gt3M/images.jpg" group-title="Squid Game Season 03 Dual Audio",S01E04
+https://dooflix.live/cdn/hls/aedd50acde93b03263bb7596e9aaddbc/master.m3u8?s=1
+#EXTINF:-1 tvg-id="SquidGameS3" tvg-name="S01E05" tvg-logo="https://i.postimg.cc/2Sp3Gt3M/images.jpg" group-title="Squid Game Season 03 Dual Audio",S01E05
+https://dooflix.live/cdn/hls/18e65312d0c9fe640908c7086c9d1cb2/master.m3u8?s=1
+#EXTINF:-1 tvg-id="SquidGameS3" tvg-name="S01E06" tvg-logo="https://i.postimg.cc/2Sp3Gt3M/images.jpg" group-title="Squid Game Season 03 Dual Audio",S01E06
+https://dooflix.live/cdn/hls/37fbf7d8082712a4a420a9ed6a3cca4e/master.m3u8?s=1
 #EXTINF:-1 tvg-id="Bangla" tvg-name="Taandob (2025)" tvg-logo="https://i.postimg.cc/Vk2Pj87K/ipl-MLl-XU1-Bgm-Tz4xvi-ILTOl-ECYL.jpg" group-title="Bangla Movies",Taandob (2025)
 https://pub-74c2d8d03dab4db091fc2d64bfc18a81.r2.dev/Taandob.2025.1080p.WeB-DL.Bangladeshi.x264.AAC-SkymoviesHD.Dance.mkv
 #EXTINF:-1 tvg-id="Bangla" tvg-name="Borbad" tvg-logo="https://i.postimg.cc/9FK4cmds/images.jpg" group-title="Bangla Movies",Borbad
