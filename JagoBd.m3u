@@ -175,6 +175,18 @@ https://dooflix.live/cdn/hls/0ac21c0151e0963712999a09d26f8fa1/master.m3u8?s=1
 https://dooflix.live/cdn/hls/776196860acad2106a26c21703823acd/master.m3u8?s=1
 #EXTINF:-1 tvg-id="CID" tvg-name="CID S02E50" tvg-logo="https://i.postimg.cc/jq6Mbb5w/CID.jpg" group-title="CID Season 02",CID S02E50
 https://dooflix.live/cdn/hls/ef983ca443038072e684a882cabed0db/master.m3u8?s=1
+#EXTINF:-1 tvg-id="CID" tvg-name="CID S02E51" tvg-logo="https://i.postimg.cc/jq6Mbb5w/CID.jpg" group-title="CID Season 02",CID S02E51
+https://pixeldrain.dev/api/file/tFSiMTEK?download
+#EXTINF:-1 tvg-id="CID" tvg-name="CID S02E52" tvg-logo="https://i.postimg.cc/jq6Mbb5w/CID.jpg" group-title="CID Season 02",CID S02E52
+https://pixeldrain.dev/api/file/brBK3KbA?download
+#EXTINF:-1 tvg-id="CID" tvg-name="CID S02E53" tvg-logo="https://i.postimg.cc/jq6Mbb5w/CID.jpg" group-title="CID Season 02",CID S02E53
+https://pixeldrain.dev/api/file/cdNA85ay?download
+#EXTINF:-1 tvg-id="CID" tvg-name="CID S02E54" tvg-logo="https://i.postimg.cc/jq6Mbb5w/CID.jpg" group-title="CID Season 02",CID S02E54
+https://pixeldrain.dev/api/file/hArE4izx?download
+#EXTINF:-1 tvg-id="CID" tvg-name="CID S02E55" tvg-logo="https://i.postimg.cc/jq6Mbb5w/CID.jpg" group-title="CID Season 02",CID S02E55
+https://pixeldrain.dev/api/file/NLbbjf9J?download
+#EXTINF:-1 tvg-id="CID" tvg-name="CID S02E56" tvg-logo="https://i.postimg.cc/jq6Mbb5w/CID.jpg" group-title="CID Season 02",CID S02E56
+https://pixeldrain.dev/api/file/xSfRgtzR?download
 #EXTINF:-1 tvg-id="News 24/7" tvg-name="Jago News 24" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="News 24/7",Jago News 24
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="News 24/7" tvg-name="Independent TV" tvg-logo="https://i.postimg.cc/Bb01Tz1C/Picsart-25-01-28-11-30-34-024.jpg" group-title="News 24/7",Independent TV
