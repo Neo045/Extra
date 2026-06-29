@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="Fifa" tvg-name="Live FHD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Toffe 1080p
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1750.m3u8?hdntl=Expires=1782842549~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclAgEuiKHAJDlGKlDxk6p9GjGV5zmxvO_1CoPMbfER7dzE_ftYLRL2v9DXBhST8jwqDtrDmyu28xJzUSvfcc2WsH&edge-cache-token=Expires=1782757962~Starts=1782671562~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=zope5YXuIjYYS3mR4-ffkeMvcQcxxtcCBmRRpiTe2eTxnyDmuWKYc0-VKV5oCMlnewwOOfcV3PGLp2F4nA2LBA
+#EXTINF:-1 tvg-id="Fifa" tvg-name="Live FHD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Toffe 720p
+https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/1/master_1500.m3u8?hdntl=Expires=1782842549~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclAgEuiKHAJDlGKlDxk6p9GjGV5zmxvO_1CoPMbfER7dzE_ftYLRL2v9DXBhST8jwqDtrDmyu28xJzUSvfcc2WsH&edge-cache-token=Expires=1782757962~Starts=1782671562~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=zope5YXuIjYYS3mR4-ffkeMvcQcxxtcCBmRRpiTe2eTxnyDmuWKYc0-VKV5oCMlnewwOOfcV3PGLp2F4nA2LBA
 #EXTINF:-1 tvg-id="Fifa" tvg-name="Live FHD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Fifa Live BDIX 1
 http://live.joshbdixsports.shop/t.me/BDIX_Bypass_josh_Rambo___BRvJP1/index.m3u8
 #EXTINF:-1 tvg-id="Fifa" tvg-name="Live FHD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Fifa Live BDIX 2
