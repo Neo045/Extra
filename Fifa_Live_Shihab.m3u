@@ -21,15 +21,17 @@ https://tvex.easypecker.com/somyyt/index.m3u8
 https://tvex.easypecker.com/somyyt/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",TSports Link 10
 http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Toffe Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Toffe Live 1
+#EXTINF:-1 group-title="Fifa Live"tvg-logo="https://iptv.deltainfonet.com/assets/images/FIFA%2020261782323894.png",FiFa World Cup Hindi 
+http://180.94.28.28:8097/Fifa-2026/index.m3u8
+#EXTINF:-1 group-title="Fifa Live Toffe"tvg-logo="https://i.imgur.com/53aSeDH.png",Toffee Server 1
 https://cdn-tt.pages.dev/ch1.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Toffe Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Toffe Live 2
-https://cdn-tt.pages.dev/ch2.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Toffe Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Toffe Live 3
+#EXTINF:-1 group-title="Fifa Live Toffe"tvg-logo="https://i.imgur.com/53aSeDH.png",Toffee Server 2
+https://cdn-tt.pages.dev/CO2.m3u8
+#EXTINF:-1 group-title="Fifa Live Toffe"tvg-logo="https://i.imgur.com/53aSeDH.png",Toffee Server 3
 https://cdn-tt.pages.dev/ch3.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Toffe Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Toffe Live 4
+#EXTINF:-1 group-title="Fifa Live Toffe"tvg-logo="https://i.imgur.com/53aSeDH.png",Toffee Server 4
 https://cdn-tt.pages.dev/ch4.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Toffe Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Toffe Live 5
+#EXTINF:-1 group-title="Fifa Live Toffe"tvg-logo="https://i.imgur.com/53aSeDH.png",Toffee Server 5
 https://cdn-tt.pages.dev/ch5.m3u8
 #EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",PTV Sports Link 1
 https://tvex.easypecker.com/ptv_bdix/index.m3u8
