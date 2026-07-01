@@ -1,36 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Live FHD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Toffe 1080p
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/0/master_1750.m3u8?hdntl=Expires=1782842549~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclAgEuiKHAJDlGKlDxk6p9GjGV5zmxvO_1CoPMbfER7dzE_ftYLRL2v9DXBhST8jwqDtrDmyu28xJzUSvfcc2WsH&edge-cache-token=Expires=1782757962~Starts=1782671562~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=zope5YXuIjYYS3mR4-ffkeMvcQcxxtcCBmRRpiTe2eTxnyDmuWKYc0-VKV5oCMlnewwOOfcV3PGLp2F4nA2LBA
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Live FHD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Toffe 720p
-https://prod-cdn01-live.toffeelive.com/live/FIFA-2026/sst/1/master_1500.m3u8?hdntl=Expires=1782842549~_GO=Generated~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=AeQsclAgEuiKHAJDlGKlDxk6p9GjGV5zmxvO_1CoPMbfER7dzE_ftYLRL2v9DXBhST8jwqDtrDmyu28xJzUSvfcc2WsH&edge-cache-token=Expires=1782757962~Starts=1782671562~URLPrefix=aHR0cHM6Ly9wcm9kLWNkbjAxLWxpdmUudG9mZmVlbGl2ZS5jb20~Signature=zope5YXuIjYYS3mR4-ffkeMvcQcxxtcCBmRRpiTe2eTxnyDmuWKYc0-VKV5oCMlnewwOOfcV3PGLp2F4nA2LBA
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Live FHD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Fifa Live BDIX 1
-http://live.joshbdixsports.shop/t.me/BDIX_Bypass_josh_Rambo___BRvJP1/index.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Live FHD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Fifa Live BDIX 2
-https://cdn011.viaplus.site/fox-xyz.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Live FHD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Fifa Live 4k
-https://play.gzxdby.com/live/283334344568_4547627228_1080p.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Live FHD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Fifa Live BDIX
-http://live.joshbdixsports.shop/t.me/BDIX_Bypass_josh_Rambo___live2fd_qGTv/index.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Live FHD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Fifa Live BDIX 2
-http://live.joshbdixsports.shop/t.me/BDIX_Bypass_josh_Rambo___live2fd_qGTv/index.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Live FHD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Fifa Live [Himel OP]
-https://d1kep4defqj6r1.cloudfront.net/out/v1/4e21d5a122c549289dd6feab259266e8/index_1.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Live FHD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Fifa Live [Zubayer OP 1]
-https://zubayerop.short.gy/FIFA-WC-22-1.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Live FHD" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Fifa Live [Zubayer OP 2]
-https://zubayerop.short.gy/FIFA-WC-22-2.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="RTB GO Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",RTB GO Live
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Toffe Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Toffe Live 1
-https://cdn-tt.pages.dev/ch1.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Toffe Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Toffe Live 2
-https://cdn-tt.pages.dev/ch2.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Toffe Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Toffe Live 3
-https://cdn-tt.pages.dev/ch3.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Toffe Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Toffe Live 4
-https://cdn-tt.pages.dev/ch4.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Toffe Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Toffe Live 5
-https://cdn-tt.pages.dev/ch5.m3u8
 #EXTINF:-1 tvg-id="Fifa" tvg-name="TSports Link tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",TSports Link 1
 https://tvex.easypecker.com/TSportsHD_sf_bdix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",TSports Link 2
@@ -41,8 +9,26 @@ https://tvex.easypecker.com/TSportsHD_rc_nix/index.m3u8
 https://tvex.easypecker.com/TSportsHD_nk_nix/index.m3u8
 #EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",TSports Link 5
 https://tvex.easypecker.com/TSportsHD_nk_bdix/index.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Somoy TV
+#EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",TSports Link 6
 https://tvex.easypecker.com/somy_rc_bdix/index.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",TSports Link 6
+https://tvex.easypecker.com/bein1/index.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",TSports Link 7
+https://tvex.easypecker.com/somyyt/index.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",TSports Link 8
+https://tvex.easypecker.com/somyyt/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",TSports Link 9
+http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1 tvg-id="Fifa" tvg-name="Toffe Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Toffe Live 1
+https://cdn-tt.pages.dev/ch1.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="Toffe Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Toffe Live 2
+https://cdn-tt.pages.dev/ch2.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="Toffe Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Toffe Live 3
+https://cdn-tt.pages.dev/ch3.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="Toffe Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Toffe Live 4
+https://cdn-tt.pages.dev/ch4.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="Toffe Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Toffe Live 5
+https://cdn-tt.pages.dev/ch5.m3u8
 #EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",PTV Sports Link 1
 https://tvex.easypecker.com/ptv_bdix/index.m3u8
 #EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",PTV Sports Link 2
@@ -51,37 +37,27 @@ https://tvex.easypecker.com/ptv_nix/index.m3u8
 https://tvex.easypecker.com/spotyfyz_nix/index.m3u8
 #EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Unites Sports 1 Link 2
 https://tvex.easypecker.com/spotyfyz_bdix/index.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",TSports
-https://tvex.easypecker.com/bein1/index.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Somoy TV
-https://tvex.easypecker.com/somyyt/index.m3u8
 #EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",PTV
 https://tvex.easypecker.com/ptv/index.m3u8
 #EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",PTV BDIX
 https://tvex.easypecker.com/ptv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Somoy TV BDIX
-https://tvex.easypecker.com/somyyt/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",TSports Server 2
-http://114.130.57.233:8080/TsportHD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",Somoy TV 720
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",GO Live HD
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QCKgdb09/20240822-230145.png" group-title="𝐁𝐚𝐧𝐠𝐥𝐚𝐝𝐞𝐬𝐡𝐢",Somoy Tv
-http://198.195.239.50:8095/somoyTv/index.m3u8
-#EXTINF:-1 group-title="𝐅𝐢𝐅𝐚 𝐖𝐨𝐫𝐥𝐝 𝐂𝐮𝐩"tvg-logo="https://i.postimg.cc/k5yftzKR/FIFA-world-cup-2026-752x440.webp",BeiN Sports 
-https://cp11.adabmedia.com/hls2/sport.m3u8?nocache=1782057214460
 #EXTINF:-1 group-title="𝐅𝐢𝐅𝐚 𝐖𝐨𝐫𝐥𝐝 𝐂𝐮𝐩"tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/BTV_FIFA%20.jpg",B TV
 http://198.195.239.50:8095/btv/index.m3u8
 #EXTINF:-1 group-title="𝐅𝐢𝐅𝐚 𝐖𝐨𝐫𝐥𝐝 𝐂𝐮𝐩"tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/SomoyTV-FIFA.jpg", SOMOY TV
 http://198.195.239.50:8095/somoyTv/index.m3u8
-#EXTINF:-1 group-title="𝐅𝐢𝐅𝐚 𝐖𝐨𝐫𝐥𝐝 𝐂𝐮𝐩"tvg-logo="https://i.postimg.cc/VL5yTtwr/20250707-141739.png", T Sports 
-https://tv.emnetbd.com/flussonic/Tsports1/index.m3u8
 #EXTINF:-1 group-title="𝐅𝐢𝐅𝐚 𝐖𝐨𝐫𝐥𝐝 𝐂𝐮𝐩"tvg-logo="https://i.postimg.cc/k5yftzKR/FIFA-world-cup-2026-752x440.webp", United Sports 
 http://198.195.239.50:8095/unt-s/video.m3u8
-#EXTINF:-1 group-title="𝐅𝐢𝐅𝐚 𝐖𝐨𝐫𝐥𝐝 𝐂𝐮𝐩"tvg-logo="https://i.postimg.cc/k5yftzKR/FIFA-world-cup-2026-752x440.webp", P TV
-http://198.195.239.50:8095/ptv/index.m3u8
 #EXTINF:-1 group-title="𝐅𝐢𝐅𝐚 𝐖𝐨𝐫𝐥𝐝 𝐂𝐮𝐩"tvg-logo="https://i.postimg.cc/k5yftzKR/FIFA-world-cup-2026-752x440.webp",Caze TV
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
 #EXTINF:-1 group-title="𝐅𝐢𝐅𝐚 𝐖𝐨𝐫𝐥𝐝 𝐂𝐮𝐩"tvg-logo="https://i.postimg.cc/k5yftzKR/FIFA-world-cup-2026-752x440.webp",Puerto Rico 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_1080.m3u8
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/Y903JSq8/20260612-095648.jpg",FIFA World Cup 2026 HD
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/prg8sRhM/20260604-101842.jpg",BTV BDIX
+http://198.195.239.50:8095/btv/index.m3u8
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/wBqS8gCh/20260605-180409.jpg",Somoy TV BDIX
+http://198.195.239.50:8095/somoyTv/index.m3u8
+#EXTINF:-1 group-title="LIVE SPORTS" tvg-logo="https://i.postimg.cc/wBqS8gCh/20260605-180409.jpg",Somoy TV BDIX 2
+http://180.94.28.28:8097//Somoy-TV/index.m3u8
