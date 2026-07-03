@@ -23,3 +23,9 @@ https://tvdd.easypecker.com/spotyfyz_nix/index.m3u8
 https://tvdd.easypecker.com/spotyfyz_bdix/index.m3u8
 #EXTINF:-1 tvg-id="Fifa" tvg-name="TSports Link tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",TSports 11
 https://tvdd.easypecker.com/bein1/index.m3u8
+#EXTINF:-1 group-title="𝐅𝐢𝐅𝐚 𝐖𝐨𝐫𝐥𝐝 𝐂𝐮𝐩"tvg-logo="https://lh3.googleusercontent.com/mGk98--Wei7SRISqyPRmtGVWYIt9CcyPaQM_8JctgErASaFp91UgCHq_wubRk0SPdtft8gbkRvm1iw5NwcGYj5ftVMIFXhR4EBdY=h200", Bioscope+
+https://cricxtv.fun/isceen.php
+#EXTINF:-1 group-title="𝐅𝐢𝐅𝐚 𝐖𝐨𝐫𝐥𝐝 𝐂𝐮𝐩"tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/SomoyTV-FIFA.jpg", SOMOY TV
+http://180.94.28.28:8097//Somoy-TV/index.m3u8
+#EXTINF:-1 group-title="𝐅𝐢𝐅𝐚 𝐖𝐨𝐫𝐥𝐝 𝐂𝐮𝐩"tvg-logo="https://iptv.deltainfonet.com/assets/images/FIFA%2020261782323894.png",FiFa World Cup 
+http://180.94.28.28:8097/Fifa-2026/index.m3u8
