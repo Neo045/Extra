@@ -1,37 +1,94 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="Neo" tvg-name="Welcome" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/Cover.png" group-title="Welcome (Check This Folder)",Welcome
 https://video.twimg.com/ext_tw_video/1755635743983009792/pr/vid/avc1/1280x720/oTw4c_9Pg5LVnAo6.mp4?tag=12
-#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports Link tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",TSports
-https://tvdd.easypecker.com/TSportsHD_sf_bdix/index.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports Link tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",TSports 2
-https://tvdd.easypecker.com/TSportsHD_sf_nix/index.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports Link tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",TSports 3
-https://tvdd.easypecker.com/TSportsHD_rc_nix/index.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports Link tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",TSports 4
-https://tvdd.easypecker.com/TSportsHD_nk_nix/index.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports Link tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",TSports 5
-https://tvdd.easypecker.com/TSportsHD_nk_bdix/index.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports Link tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",TSports 6
-https://tvdd.easypecker.com/somy_rc_bdix/index.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports Link tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",TSports 7
-https://tvdd.easypecker.com/ptv_bdix/index.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports Link tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",TSports 8
-https://tvdd.easypecker.com/ptv_nix/index.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports Link tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",TSports 9
-https://tvdd.easypecker.com/spotyfyz_nix/index.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports Link tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",TSports 10
-https://tvdd.easypecker.com/spotyfyz_bdix/index.m3u8
-#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports Link tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="Fifa Live",TSports 11
-https://tvdd.easypecker.com/bein1/index.m3u8
-#EXTINF:-1 group-title="𝐅𝐢𝐅𝐚 𝐖𝐨𝐫𝐥𝐝 𝐂𝐮𝐩"tvg-logo="https://lh3.googleusercontent.com/mGk98--Wei7SRISqyPRmtGVWYIt9CcyPaQM_8JctgErASaFp91UgCHq_wubRk0SPdtft8gbkRvm1iw5NwcGYj5ftVMIFXhR4EBdY=h200", Bioscope+
-https://cricxtv.fun/isceen.php
-#EXTINF:-1 group-title="𝐅𝐢𝐅𝐚 𝐖𝐨𝐫𝐥𝐝 𝐂𝐮𝐩"tvg-logo="https://raw.githubusercontent.com/buzzinguaecn/Logo/main/Sports/SomoyTV-FIFA.jpg", SOMOY TV
-http://180.94.28.28:8097//Somoy-TV/index.m3u8
-#EXTINF:-1 group-title="𝐅𝐢𝐅𝐚 𝐖𝐨𝐫𝐥𝐝 𝐂𝐮𝐩"tvg-logo="https://iptv.deltainfonet.com/assets/images/FIFA%2020261782323894.png",FiFa World Cup 
-http://180.94.28.28:8097/Fifa-2026/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/sXnk77QG/20260627-200357.jpg"group-title="LIVE SPORTS" group-title="",FIFA World Cup 2026 (Fast HD)
-#EXTVLCOPT:http-referrer=https://iscreen.com.bd/
-https://tc-sg.rockstreamer.com/v1/019ed91616121ea540a8171c8e801f/019ed92ac80315fc600b1796d4ad8b/main.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/s2K4FVpz/20260627-200442.jpg"group-title="LIVE SPORTS" group-title="",FIFA World Cup 2026 (Binge+)
-#EXTVLCOPT:http-referrer=https://iscreen.com.bd/
-https://m3u-tvb.pages.dev/ics.m3u8
+#EXTINF:-1 group-title="𝐅𝐢𝐅𝐚 𝐖𝐨𝐫𝐥𝐝 𝐂𝐮𝐩"tvg-logo="https://i.imgur.com/0oICE2u.png", i Screen 
+https://cricxtv.fun/iscreen.php
+
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports HD [EXD]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports HD [EXD]",TSports HD [EXD]
+https://tvex.easypecker.com/TSportsHD_sf_bdix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports HD [EXD]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports HD [EXD]",TSports HD 2 [EXD]
+https://tvex.easypecker.com/TSportsHD_sf_nix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports HD [EXD]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports HD [EXD]",TSports HD 3 [EXD]
+https://tvex.easypecker.com/TSportsHD_rc_nix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports HD [EXD]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports HD [EXD]",TSports HD 4 [EXD]
+https://tvex.easypecker.com/TSportsHD_rc_bdix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports HD [EXD]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports HD [EXD]",TSports HD 5 [EXD]
+https://tvex.easypecker.com/TSportsHD_nk_nix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports HD [EXD]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports HD [EXD]",TSports HD 6 [EXD]
+https://tvex.easypecker.com/TSportsHD_nk_bdix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports HD [EXD]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports HD [EXD]",TSports HD 7 [EXD]
+https://tvex.easypecker.com/somy_rc_bdix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports HD [EXD]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports HD [EXD]",TSports HD 8 [EXD]
+https://tvex.easypecker.com/bein1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports HD [EXD]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports HD [EXD]",TSports HD 9 [EXD]
+https://tvex.easypecker.com/somyyt/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports HD [EXD]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports HD [EXD]",PTV Sports HD [EXD]
+https://tvex.easypecker.com/ptv_bdix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports HD [EXD]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports HD [EXD]",PTV Sports HD 2 [EXD]
+https://tvex.easypecker.com/ptv_nix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports HD [FC]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports HD [FC]",TSports HD [FC]
+https://fr-tvapp.easypecker.com/TSportsHD_sf_bdix/tracks-v1a1/mono.m3u8
+ #EXTINF:-1 tvg-id="Fifa" tvg-name="TSports HD [FC]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports HD [FC]",TSports HD 2 [FC]
+https://fr-tvapp.easypecker.com/TSportsHD_sf_nix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports HD [FC]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports HD [FC]",TSports HD 3 [FC]
+https://fr-tvapp.easypecker.com/TSportsHD_rc_bdix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports HD [FC]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports HD [FC]",TSports HD 4 [FC]
+https://fr-tvapp.easypecker.com/TSportsHD_rc_nix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports HD [FC]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports HD [FC]",TSports HD 5 [FC]
+https://fr-tvapp.easypecker.com/TSportsHD_nk_nix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports HD [FC]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports HD [FC]",TSports HD 6 [FC]
+https://fr-tvapp.easypecker.com/TSportsHD_nk_bdix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports HD [FC]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports HD [FC]",TSports HD 7 [FC]
+https://fr-tvapp.easypecker.com/somy_rc_bdix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports HD [FC]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports HD [FC]",TSports HD 8 [FC]
+https://fr-tvapp.easypecker.com/bein1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports HD [FC]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports HD [FC]",TSports HD 9 [FC]
+https://fr-tvapp.easypecker.com/somyyt/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports HD [FC]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports HD [FC]",PTV Sports HD [FC]
+https://fr-tvapp.easypecker.com/ptv_bdix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports HD [FC]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports HD [FC]",PTV Sports HD 2 [FC]
+https://fr-tvapp.easypecker.com/ptv_nix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports Link [EXD]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports [EXD Server]",TSports [EXD]
+https://tvex.easypecker.com/TSportsHD_sf_bdix/index.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports [EXD Server]",TSports Link 2 [EXD]
+https://tvex.easypecker.com/TSportsHD_sf_nix/index.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports [EXD Server]",TSports Link 3 [EXD]
+https://tvex.easypecker.com/TSportsHD_rc_nix/index.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports [EXD Server]",TSports Link 4 [EXD]
+https://tvex.easypecker.com/TSportsHD_rc_bdix/index.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports [EXD Server]",TSports Link 5 [EXD]
+https://tvex.easypecker.com/TSportsHD_nk_nix/index.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports [EXD Server]",TSports Link 6  [EXD]
+https://tvex.easypecker.com/TSportsHD_nk_bdix/index.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports [EXD Server]",TSports Link 7 [EXD]
+https://tvex.easypecker.com/somy_rc_bdix/index.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports [EXD Server]",TSports Link 8 [EXD]
+https://tvex.easypecker.com/bein1/index.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports [EXD Server]",TSports Link 9 [EXD]
+https://tvex.easypecker.com/somyyt/index.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports [EXD Server]",PTV Sports  [EXD]
+https://tvex.easypecker.com/ptv_bdix/index.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="Fifa Live" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports [EXD Server]",PTV Sports Link 2 [EXD]
+https://tvex.easypecker.com/ptv_nix/index.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports [FC]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports [FC]",TSports Link [FC]
+https://fr-tvapp.easypecker.com/TSportsHD_sf_bdix/index.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports [FC]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports [FC]",TSports Link 2 [FC]
+https://fr-tvapp.easypecker.com/TSportsHD_sf_nix/index.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports [FC]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports [FC]",TSports Link 3 [FC]
+https://fr-tvapp.easypecker.com/TSportsHD_rc_nix/index.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports [FC]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports [FC]",TSports Link 4 [FC]
+https://fr-tvapp.easypecker.com/TSportsHD_nk_nix/index.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports [FC]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports [FC]",TSports Link 5 [FC]
+https://fr-tvapp.easypecker.com/TSportsHD_nk_bdix/index.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports [FC]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports [FC]",TSports Link 6 [FC]
+https://fr-tvapp.easypecker.com/somy_rc_bdix/index.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports [FC]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports [FC]",TSports Link 7 [FC]
+https://fr-tvapp.easypecker.com/somy_rc_bdix/index.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports [FC]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports [FC]",TSports Link 8 [FC]
+https://fr-tvapp.easypecker.com/bein1/index.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports [FC]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports [FC]",TSports Link 9 [FC]
+https://fr-tvapp.easypecker.com/somyyt/index.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports [FC]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports [FC]",PTV Sports [FC]
+https://fr-tvapp.easypecker.com/ptv_bdix/index.m3u8
+#EXTINF:-1 tvg-id="Fifa" tvg-name="TSports [FC]" tvg-logo="https://raw.githubusercontent.com/Neo045/Pictures/refs/heads/main/349.png" group-title="TSports [FC]",PTV Sports 2 [FC]
+https://fr-tvapp.easypecker.com/ptv_nix/index.m3u8
